@@ -1,8 +1,8 @@
 ---
 date: '2021-04-11'
 title: 'Splitwise: Minimize Cash Flow Algorithm in JavaScript'
-github: 'https://github.com/ahtrahdis7/lru-cache-js'
-external: 'https://www.npmjs.com/package/lru-cache-js-map'
+github: 'https://github.com/ahtrahdis7/splitwise-js'
+external: 'https://www.npmjs.com/package/splitwise-js-map'
 tech:
   - JavaScript
   - npm
