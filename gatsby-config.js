@@ -155,5 +155,15 @@ module.exports = {
         trackingId: 'G-CV4JB07MHG',
       },
     },
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        // You can add multiple tracking ids and a pageview event will be fired for all of them.
+        trackingIds: [
+          'G-CV4JB07MHG', // Google Analytics / GA
+          // Marketing Platform advertising products (Display & Video 360, Search Ads 360, and Campaign Manager)
+        ],
+      },
+    },
   ],
 };
