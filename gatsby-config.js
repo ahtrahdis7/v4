@@ -5,7 +5,7 @@ module.exports = {
     title: 'Sidhartha Mallick',
     description:
       'Sidhartha Mallick is a Software Engineer specializing in building high performant web-apps, android apps and web servers.',
-    siteUrl: 'https://ahtrahdis7.github.io', // No trailing slash allowed!
+    siteUrl: 'https://ahtrahdis7.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@SidMallick7',
   },
@@ -152,7 +152,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-45666519-2',
+        trackingId: 'G-CV4JB07MHG',
       },
     },
   ],
